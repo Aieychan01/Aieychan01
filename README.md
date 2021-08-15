@@ -6,27 +6,25 @@
   <p>Sou estudante de desenvolvimento Front-End com planos de aprender cada vez mais.
 Esforçada, dedicada e apaixonada pelo que faz, uma boa ouvinte, responsável e ótima em olhar crítico.</p>
  
-- 📖 Estudante do Start Latam 2021  
-- 🌱 Estudando Front-end
-- 💬 Pode vir conversar comigo sobre HTML, CSS, JavaScript ou qualquer outra tecnologia. 
+  - 📖 Estudante do Start Latam 2021  
+  - 🌱 Estudando Front-end
+  - 💬 Pode vir conversar comigo sobre HTML, CSS, JavaScript ou qualquer outra tecnologia. 
 
   <br>
  <div>
   <a href="https://github.com/Aieychan01">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Aieychan01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aieychan01&layout=compact&langs_count=7&theme=dracula"/>
-
-   <img align="right" width="202" height="249" alt="yoda" src="perfil.png">
-   
 </div>
-   <h2> Tecnologia que uso e estudo</h2>
+   
    <div style="display: inline_block"><br>
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+     <img align="right" width="202" height="200" alt="yoda" src="perfil.png">
 </div>
-
+      
  ##  
      
    <div> 
