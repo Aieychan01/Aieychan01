@@ -1,6 +1,7 @@
 <h1 align=center> Olá! 👋 Sou Aieychan karoline <h1>
 <h2 align=center>Desenvolvimento Front-end <h2>
   <br>
+  <img align="right" alt="yoda" src="perfil.png">
   <p>Sou estudante de desenvolvimento Front-End com planos de aprender cada vez mais.
 Esforçada, dedicada e apaixonada pelo que faz, uma boa ouvinte, responsável e ótima em olhar crítico.</p>
  
