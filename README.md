@@ -1,5 +1,5 @@
-<h1 align=center> Olá! 👋 Sou Aieychan karoline <h1>
-<h2 align=center>Desenvolvimento Front-end <h2>
+<h1 align=center> Olá! 👋 Sou Aieychan karoline </h1>
+<h2 align=center>Desenvolvimento Front-end </h2>
 
   <br>
 
