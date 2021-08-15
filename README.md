@@ -1,7 +1,8 @@
 <h1 align=center> Olá! 👋 Sou Aieychan karoline <h1>
 <h2 align=center>Desenvolvimento Front-end <h2>
+
   <br>
-  <img align="right" alt="yoda" src="perfil.png">
+
   <p>Sou estudante de desenvolvimento Front-End com planos de aprender cada vez mais.
 Esforçada, dedicada e apaixonada pelo que faz, uma boa ouvinte, responsável e ótima em olhar crítico.</p>
  
@@ -14,6 +15,9 @@ Esforçada, dedicada e apaixonada pelo que faz, uma boa ouvinte, responsável e 
   <a href="https://github.com/Aieychan01">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Aieychan01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aieychan01&layout=compact&langs_count=7&theme=dracula"/>
+
+   <img align="right" width="202" height="249" alt="yoda" src="perfil.png">
+   
 </div>
    <h2> Tecnologia que uso e estudo</h2>
    <div style="display: inline_block"><br>
