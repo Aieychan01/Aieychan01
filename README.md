@@ -6,7 +6,7 @@
   <p>Sou estudante de desenvolvimento Front-End com planos de aprender cada vez mais.
 Esforçada, dedicada e apaixonada pelo que faz, uma boa ouvinte, responsável e ótima em olhar crítico.</p>
  
-  - 📖 Estudante do Start Latam 2021  
+  - 📖 Estudante do <a href="https://www.redecidada.org.br/projetos/" target="_blanck">Start Latam 2021</a>   
   - 🌱 Estudando Front-end
   - 💬 Pode vir conversar comigo sobre HTML, CSS, JavaScript ou qualquer outra tecnologia. 
 
